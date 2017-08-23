@@ -72,7 +72,7 @@ import os.path
 import platform
 
 max_version = 81000
-addrtype = 75
+addrtype = 26
 json_db = {}
 private_keys = []
 private_hex_keys = []
